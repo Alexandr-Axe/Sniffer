@@ -1,0 +1,11 @@
+Z:\PVA\MVOP\FileStreamWatcher\FileStreamWatcher\bin\Debug\netcoreapp2.1\FileStreamWatcher.deps.json
+Z:\PVA\MVOP\FileStreamWatcher\FileStreamWatcher\bin\Debug\netcoreapp2.1\FileStreamWatcher.runtimeconfig.json
+Z:\PVA\MVOP\FileStreamWatcher\FileStreamWatcher\bin\Debug\netcoreapp2.1\FileStreamWatcher.runtimeconfig.dev.json
+Z:\PVA\MVOP\FileStreamWatcher\FileStreamWatcher\bin\Debug\netcoreapp2.1\FileStreamWatcher.dll
+Z:\PVA\MVOP\FileStreamWatcher\FileStreamWatcher\bin\Debug\netcoreapp2.1\FileStreamWatcher.pdb
+Z:\PVA\MVOP\FileStreamWatcher\FileStreamWatcher\obj\Debug\netcoreapp2.1\FileStreamWatcher.csprojAssemblyReference.cache
+Z:\PVA\MVOP\FileStreamWatcher\FileStreamWatcher\obj\Debug\netcoreapp2.1\FileStreamWatcher.csproj.CoreCompileInputs.cache
+Z:\PVA\MVOP\FileStreamWatcher\FileStreamWatcher\obj\Debug\netcoreapp2.1\FileStreamWatcher.AssemblyInfoInputs.cache
+Z:\PVA\MVOP\FileStreamWatcher\FileStreamWatcher\obj\Debug\netcoreapp2.1\FileStreamWatcher.AssemblyInfo.cs
+Z:\PVA\MVOP\FileStreamWatcher\FileStreamWatcher\obj\Debug\netcoreapp2.1\FileStreamWatcher.dll
+Z:\PVA\MVOP\FileStreamWatcher\FileStreamWatcher\obj\Debug\netcoreapp2.1\FileStreamWatcher.pdb

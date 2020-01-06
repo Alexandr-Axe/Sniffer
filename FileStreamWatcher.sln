@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStreamWatcher", "FileStreamWatcher\FileStreamWatcher.csproj", "{C780C302-DAC9-49E9-B6A1-1FC73E005941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C780C302-DAC9-49E9-B6A1-1FC73E005941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C780C302-DAC9-49E9-B6A1-1FC73E005941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C780C302-DAC9-49E9-B6A1-1FC73E005941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C780C302-DAC9-49E9-B6A1-1FC73E005941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5046605F-1C45-43DF-90E6-AF584272720A}
+	EndGlobalSection
+EndGlobal
